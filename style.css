@@ -1,3 +1,51 @@
-.cor-de-fundo {
-	background-color: rgb (253, 251, 251); 
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+  background-color: rgb (253, 251, 251);
+}
+
+
+ul{
+
+	display: block;
+
+}
+
+a{
+	color: white;
+}
+
+
+.img{
+width: 250px;
+
+}
+
+
+
+.header {
+  border-style: none;
+  color: white;
+  background-color: green;
+}
+
+.navigation {
+  color: white;
+}
+
+.title-container {
+}
+
+.conteudo {
+}
+
+.conteudo-principal {
+}
+
+.footer {
+background-color: aquamarine;	
 }
