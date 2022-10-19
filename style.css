@@ -1,28 +1,33 @@
 * {
-	margin: 0;
-	box-sizing: border-box;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-ul{
-	display:list-item;
+ul {
+  display: list-item;
 }
 
-a{
-	color: white;
-	display:list-item;
+a {
+  color: white;
+  display: list-item;
 }
 
-.img{
-	width: 250px;
-	position: static;
+.img {
+  width: 250px;
+  position: static;
 }
-
 
 .header {
   border-style: none;
   color: white;
   background-color: green;
 }
+
+/* .lista-nao-ordenada {
+}
+
+.lista-nao-ordenada {
+} */
 
 .navigation {
   color: white;
@@ -38,5 +43,5 @@ a{
 } */
 
 .footer {
-background-color: aquamarine;	
+  background-color: aquamarine;
 }
