@@ -36,16 +36,18 @@ a {
   position: static;
 }
 
-/* .lista-nao-ordenada {
+#licoes_aprendidas {
+  
 }
 
-.lista-nao-ordenada {
-} */
+#licoes_a_aprender {
+  
+}
 
 #navigation li a {
   color: white;
 }
 
-#footer {
+#rodape{
   background-color: aquamarine;
 }
