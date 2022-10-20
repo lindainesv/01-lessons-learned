@@ -17,10 +17,13 @@ a {
 }
 
 #cabecalho {
+	position: fixed;
   border-style: none;
   color: white;
   background-color: green;
   top: 0;
+	height: 100px;
+	
 }
 
 #titulo h1 {
