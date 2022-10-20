@@ -16,19 +16,20 @@ a {
   display: list-item;
 }
 
-#title {
+#cabecalho {
+	border-style: none;
   color: white;
+  background-color: green;
+	top: 0;
+}
+
+#titulo h1 {
+
 }
 
 #minha_foto {
   width: 250px;
   position: static;
-}
-
-#header {
-  border-style: none;
-  color: white;
-  background-color: green;
 }
 
 /* .lista-nao-ordenada {
