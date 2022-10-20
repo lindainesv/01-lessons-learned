@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: rgb(255, 255, 255);
+  background-color:rgb(253, 251, 251);
 }
 
 ul {
@@ -16,7 +16,7 @@ a {
   display: list-item;
 }
 
-#title {
+#title{
   color: rgb(255, 255, 255);
 }
 
