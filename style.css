@@ -17,14 +17,14 @@ a {
 }
 
 #cabecalho {
-	border-style: none;
+  border-style: none;
   color: white;
   background-color: green;
-	top: 0;
+  top: 0;
 }
 
 #titulo h1 {
-	color: white;
+  color: white;
 }
 
 #minha_foto {
