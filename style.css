@@ -3,21 +3,31 @@
   box-sizing: border-box;
 }
 
+body{
+	background-color: rgb(255, 255, 255);
+}
+
 ul {
   display: list-item;
 }
 
 a {
-  color: white;
+  color: black;
   display: list-item;
 }
 
-.img {
+
+#title{ 
+	color: rgb(255, 255, 255);
+}
+
+
+#minha_foto {
   width: 250px;
   position: static;
 }
 
-.header {
+#header {
   border-style: none;
   color: white;
   background-color: green;
@@ -29,19 +39,11 @@ a {
 .lista-nao-ordenada {
 } */
 
-.navigation {
+#navigation li a {
   color: white;
 }
 
-/* .title-container {
-}
 
-.conteudo {
-}
-
-.conteudo-principal {
-} */
-
-.footer {
+#footer {
   background-color: aquamarine;
 }
