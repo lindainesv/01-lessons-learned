@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color:rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 ul {
@@ -16,8 +16,8 @@ a {
   display: list-item;
 }
 
-#title{
-  color: rgb(255, 255, 255);
+#title {
+  color: white;
 }
 
 #minha_foto {
