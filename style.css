@@ -21,6 +21,7 @@ a {
   color: white;
   background-color: green;
 	top: 0;
+	position: absolute;
 }
 
 #titulo h1 {
