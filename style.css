@@ -22,14 +22,14 @@ a {
   left: 0;
   right: 0;
   border-style: none;
-  color: #eee1cf;
-  background-color: #15120b;
+  color: rgb(238, 225, 207);
+  background-color: rgb(21, 18, 11);
   top: 0;
   height: 100px;
 }
 
 #titulo h1 {
-  color: #eee1cf;
+  color: rgb(238, 225, 207);
 }
 
 .nome_perfil a {
@@ -45,24 +45,24 @@ a {
 }
 
 .navigation a {
-  color: #eee1cf;
+  color: rgb(238, 225, 207);
   font-size: medium;
   display: list-item;
   margin: 10px;
 }
 
 #licoes_aprendidas {
-  color: #15120b;
+  color: rgb(21, 18, 11);
   padding: 20px 20px 20px 40px;
 }
 
 #licoes_a_aprender {
-  color: #15120b;
+  color: rgb(21, 18, 11);
   padding: 20px 20px 20px 40px;
 }
 
 #navigation li a {
-  color: #eee1cf;
+  color: rgb(238, 225, 207);
 }
 
 #lado-esquerdo {
