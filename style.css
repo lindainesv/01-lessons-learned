@@ -13,7 +13,7 @@ ul {
 }
 
 a {
-  color: #15120b;
+  color: rgb(21, 18, 11);
   text-decoration: none;
 }
 
@@ -80,6 +80,6 @@ a {
 }
 
 #rodape {
-  background-color: #ebbd73;
+  background-color: rgb(235, 189, 115);
   height: 50px;
 }
