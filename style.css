@@ -53,12 +53,14 @@ a {
 
 #licoes_aprendidas {
   color: rgb(21, 18, 11);
-  padding: 20px 20px 20px 40px;
+  padding: 5%;
+  display: inline-block;
 }
 
 #licoes_a_aprender {
   color: rgb(21, 18, 11);
-  padding: 20px 20px 20px 40px;
+  padding: 5%;
+  display: inline-block;
 }
 
 #navigation li a {
@@ -66,17 +68,17 @@ a {
 }
 
 #lado-esquerdo {
-  width: 250px;
+  width: 40%;
   color: rebeccapurple;
-  display: flex;
-  padding: 20px 20px 20px 40px;
+  display: inline-block;
+  padding: 20px;
 }
 
 #lado-direito {
-  width: 200px;
+  width: 40%;
   color: red;
-  display: flex;
-  padding: 20px 20px 20px 40px;
+  display: inline-block;
+  padding: 20px;
 }
 
 #rodape {
