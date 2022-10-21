@@ -15,7 +15,6 @@ ul {
 a {
   color: #15120b;
   text-decoration: none;
-
 }
 
 #cabecalho {
@@ -33,62 +32,54 @@ a {
   color: #eee1cf;
 }
 
-.nome_perfil a { 
+.nome_perfil a {
   padding: 10px 20px 10px;
-width:200px;	
+  width: 200px;
 }
-
 
 #minha_foto {
   width: 300px;
-  position:static;
-	padding: 20px;
-	padding-top: 120px;
+  position: static;
+  padding: 20px;
+  padding-top: 120px;
 }
 
 .navigation a {
   color: #eee1cf;
   font-size: medium;
-	display: list-item;
-	margin: 10px;
+  display: list-item;
+  margin: 10px;
 }
 
 #licoes_aprendidas {
   color: #15120b;
-	padding: 20px 20px 20px 40px;
+  padding: 20px 20px 20px 40px;
 }
 
 #licoes_a_aprender {
   color: #15120b;
-	padding: 20px 20px 20px 40px;
-
+  padding: 20px 20px 20px 40px;
 }
-
-
 
 #navigation li a {
   color: #eee1cf;
 }
 
-#lado-esquerdo{
-width: 250px ;
-color: rebeccapurple;
-display:flex;
-padding: 20px 20px 20px 40px;
-
+#lado-esquerdo {
+  width: 250px;
+  color: rebeccapurple;
+  display: flex;
+  padding: 20px 20px 20px 40px;
 }
 
 #lado-direito {
-width: 200px;
-color: red;
-display: flex;
-padding: 20px 20px 20px 40px;
-
-
+  width: 200px;
+  color: red;
+  display: flex;
+  padding: 20px 20px 20px 40px;
 }
-
 
 #rodape {
   background-color: #ebbd73;
-	height: 50px;
+  height: 50px;
 }
