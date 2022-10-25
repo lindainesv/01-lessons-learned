@@ -70,14 +70,14 @@ a {
   color: rgb(238, 225, 207);
 }
 
-#lado-esquerdo {
+.lado-esquerdo {
   width: 40%;
   color: rebeccapurple;
   display: inline-block;
   padding: 20px;
 }
 
-#lado-direito {
+.lado-direito {
   width: 40%;
   color: red;
   display: inline-block;
