@@ -76,7 +76,7 @@ a {
   margin: 60px;
   padding: 20px;
   display: inline-block;
-  }
+}
 
 .lado-direito {
   width: 20%;
@@ -85,7 +85,7 @@ a {
   padding: 20px;
   display: inline-block;
 }
-  
+
 #rodape {
   background-color: rgb(235, 189, 115);
   height: 50px;
