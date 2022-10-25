@@ -86,6 +86,11 @@ a {
   display: inline-block;
 }
 
+#table, th, td {
+  border:1px solid black;
+  width: 100px;
+}
+
 #rodape {
   background-color: rgb(235, 189, 115);
   height: 50px;
